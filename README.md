@@ -7,7 +7,6 @@ Instructions to build it:
 2. Install it at c:\opencv
 
 3. Download
---------
 [yunet.onnx](https://github.com/ShiqiYu/libfacedetection.train/blob/master/tasks/task1/onnx/yunet.onnx)  
 [face_recognizer_fast.onnx](https://drive.google.com/file/d/1ClK9WiB492c5OZFKveF3XiHCejoOxINW/view?usp=sharing)  
 
