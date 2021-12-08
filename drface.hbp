@@ -4,7 +4,7 @@
 
 -cflag=-TP
 
--Ic:\fwteam\include
+-Ic:\fwh64\include
 -Ic:\opencv\build\include
 -Ic:\opencv\modules\core\include
 
