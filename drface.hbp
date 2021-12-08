@@ -1,0 +1,12 @@
+-hblib
+-odrface64
+-mt
+
+-cflag=-TP
+
+-Ic:\fwteam\include
+-Ic:\opencv\build\include
+-Ic:\opencv\modules\core\include
+
+TDrFace.prg
+TOpenCV.prg
