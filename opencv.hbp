@@ -1,9 +1,9 @@
 opencv.prg
 opencv.rc
 
--Ic:\fwteam\include
+-Ic:\fwh64\include
 
--Lc:\fwteam\lib
+-Lc:\fwh64\lib
 
 -lfiveh64
 -lfivehc64
